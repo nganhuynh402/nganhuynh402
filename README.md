@@ -29,10 +29,9 @@ Welcome to my profile! I'm **Huynh Ngoc Kim Ngan**, a Business Administration st
 
 ## 🤝 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/huynh-ngoc-kim-ngan-538849397)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huynh-ngoc-kim-ngan-538849397)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ngan.huynhngoc.bbs23@eiu.edu.vn)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white)]([https://www.facebook.com/your-facebook](https://www.facebook.com/ngan.huynh.608686))
-
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ngan.huynh.608686)
 ---
 
 💡 *"People are the heart of every great organization."*
